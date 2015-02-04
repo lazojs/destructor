@@ -15,9 +15,9 @@ var destructor = require('destructor');
 // 1. application distribution location
 // 2. options
 //    - inlcude: regex of files to include; default is /.js$/
-      - includeDir: regex to limit directories
-      - excludeDir: regex to exclude directories
-      - exclude: regex to exclude files
+//    - includeDir: regex to limit directories
+//    - excludeDir: regex to exclude directories
+//    - exclude: regex to exclude files
 // 3. callback
 
 destructor('app/dist', { include: /.js$|.hbs$/ }, function (err, list) {
