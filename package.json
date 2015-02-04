@@ -1,7 +1,7 @@
 {
   "name": "destructor",
   "description": "Generates RequireJS configuration based on a Lazo application's app.json meta data.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "keywords": [
     "lazojs",
@@ -35,5 +35,14 @@
       "name": "Jason Strimpel",
       "email": "jstrimpel@gmail.com"
     }
-  ]
+  ],
+  "devDependencies": {
+    "gulp": "3.8.8",
+    "gulp-mocha": "1.0.0",
+    "chai": "1.9.1"
+  },
+  "dependencies": {
+      "node-dir": "0.1.5",
+      "lodash": "3.1.0"
+  }
 }
