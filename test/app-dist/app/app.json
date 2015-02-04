@@ -1,0 +1,7 @@
+{
+    "js": [
+        "app/client/foo",
+        "app/client/bar",
+        "app/client/baz"
+    ]
+}
