@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lazojs/destructor.svg?branch=master)](https://travis-ci.org/lazojs/destructor)
+
 # destructor
 
 > I am Destructor! Nya-a-a-a-a-a-a-a-a-a-a-a-a
